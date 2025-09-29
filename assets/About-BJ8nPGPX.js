@@ -1,0 +1,1 @@
+import{j as o,f as t,T as e}from"./index-BRT2th3B.js";function n(){return o.jsx(t,{children:o.jsx(e,{sx:{color:"red",fontSize:"36px"},children:"Hello, We Don't have any thing to say!"})})}export{n as default};
